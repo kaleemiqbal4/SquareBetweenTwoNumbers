@@ -1,0 +1,14 @@
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\bin\Debug\net8.0\SquareBetweenTwoNumbers.exe
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\bin\Debug\net8.0\SquareBetweenTwoNumbers.deps.json
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\bin\Debug\net8.0\SquareBetweenTwoNumbers.runtimeconfig.json
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\bin\Debug\net8.0\SquareBetweenTwoNumbers.dll
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\bin\Debug\net8.0\SquareBetweenTwoNumbers.pdb
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\SquareBetweenTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\SquareBetweenTwoNumbers.AssemblyInfoInputs.cache
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\SquareBetweenTwoNumbers.AssemblyInfo.cs
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\SquareBetweenTwoNumbers.csproj.CoreCompileInputs.cache
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\SquareBetweenTwoNumbers.dll
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\refint\SquareBetweenTwoNumbers.dll
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\SquareBetweenTwoNumbers.pdb
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\SquareBetweenTwoNumbers.genruntimeconfig.cache
+D:\KALEEM\pocies\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\SquareBetweenTwoNumbers\obj\Debug\net8.0\ref\SquareBetweenTwoNumbers.dll
